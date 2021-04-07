@@ -1,4 +1,4 @@
-# mvtecad_pytroch
+# mvtecad_pytorch
 Unofficial pytorch dataset class for MVTec Anomaly Detection Dataset
 
 ## Requirement
